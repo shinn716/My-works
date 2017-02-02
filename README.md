@@ -1,2 +1,3 @@
 # MyWorks_PRO.Test
-ver.: Processing 3
+版本: Processing 3
+processing 一班練習, 演算法練習
